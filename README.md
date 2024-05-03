@@ -1,4 +1,4 @@
-# Absa Automation Assessment
+# Sample Automation Framework
 
 ### By Bongani Maphiri
 
